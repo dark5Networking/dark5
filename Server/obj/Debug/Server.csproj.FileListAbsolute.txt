@@ -1,0 +1,9 @@
+D:\Dark5Project2023_Master\Dark5Network-master\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+D:\Dark5Project2023_Master\Dark5Network-master\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\Dark5Project2023_Master\Dark5Network-master\Server\obj\Debug\Server.csproj.CopyComplete
+D:\Dark5Project2023_Master\Dark5Network-master\Server\obj\Debug\NFive.Server.net.dll
+D:\Dark5Project2023_Master\Dark5Network-master\Server\obj\Debug\NFive.Server.net.pdb
+D:\Dark5Project2023_Master\Dark5Network-master\NFive.Server.net.dll
+D:\Dark5Project2023_Master\Dark5Network-master\NFive.Server.net.pdb
+D:\Dark5Project2023_Master\Dark5Network-master-GTA5\Dark5Network-master\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\Dark5Project2023_Master\Dark5Network-master-GTA5\Dark5Network-master\Server\obj\Debug\Server.csproj.AssemblyReference.cache

@@ -1,0 +1,17 @@
+# MySQL database connection
+connection:
+  host: 51.195.42.223
+  port: 3306
+  database: dark5_nfive
+  user: dark5_nfive
+  password: badboyss
+  charset: utf8mb4
+  logging: false
+
+migrations:
+  automatic: true
+
+# How often the server uptime log is updated
+boot_history:
+  update_frequency: 15 secs # Minimum is 10 seconds
+

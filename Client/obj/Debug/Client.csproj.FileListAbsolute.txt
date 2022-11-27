@@ -1,0 +1,13 @@
+D:\Dark5Project2023_Master\Dark5Network-master\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\Dark5Project2023_Master\Dark5Network-master\Client\obj\Debug\Client.csproj.CopyComplete
+D:\Dark5Project2023_Master\Dark5Network-master\Client\obj\Debug\NFive.Client.net.dll
+D:\Dark5Project2023_Master\Dark5Network-master\Client\obj\Debug\NFive.Client.net.pdb
+D:\Dark5Project2023_Master\Dark5Network-master\NFive.Client.net.dll
+D:\Dark5Project2023_Master\Dark5Network-master\NFive.Client.net.pdb
+D:\Dark5Project2023_Master\Dark5Network-master\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+D:\Dark5Project2023_Master\Dark5Network-master-GTA5\Dark5Network-master\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\Dark5Project2023_Master\Dark5Network-master-GTA5\Dark5Network-master\Client\obj\Debug\Client.csproj.CopyComplete
+D:\Dark5Project2023_Master\Dark5Network-master-GTA5\Dark5Network-master\Client\obj\Debug\Dark5.Client.net.dll
+D:\Dark5Project2023_Master\Dark5Network-master-GTA5\Dark5Network-master\Client\obj\Debug\Dark5.Client.net.pdb
+D:\Dark5Project2023_Master\Dark5Network-master-GTA5\Dark5Network-master\Dark5.Client.net.dll
+D:\Dark5Project2023_Master\Dark5Network-master-GTA5\Dark5Network-master\Dark5.Client.net.pdb
